@@ -7,12 +7,12 @@ se debe importar este library:
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 ```
 
-usar este decorator en la clase
+usar este anotation en la clase
 ```csharp 
 [TestClass]
 ```
 
-usar este decorator en los metodos
+usar este anotation en los metodos
 ```csharp
 [TestMethod]
 ```
